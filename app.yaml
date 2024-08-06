@@ -1,0 +1,9 @@
+runtime: nodejs22
+env: standard
+
+handlers:
+  - url: /.*
+    script: auto
+
+
+
